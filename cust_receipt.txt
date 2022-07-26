@@ -1,0 +1,17 @@
+**** RECEIPT ****
+Item         Price
+----         ----
+Wedge Salad  $  15.99
+Chips and salsa  $  4.99
+
+---------------------------------
+Subtotal:   $ 20.98
+Delivery:   $ 2.10
+Tax:        $ 1.63
+Total:      $ 24.70
+---------------------------------
+
+
+Thank you for ordering from The Bear.
+12345 Allen Ave
+Moreno Valley, CA 92553
